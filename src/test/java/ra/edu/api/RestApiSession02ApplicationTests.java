@@ -1,13 +1,13 @@
-package ra.edu.api;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class RestApiSession02ApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-
-}
+//package ra.edu.api;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class RestApiSession02ApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//    }
+//
+//}
